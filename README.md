@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a0a/00ff88?text=BAKOME+CodeMapper+Terminal+Report" alt="BAKOME CodeMapper Terminal" width="100%">
+  <img src="https://via.placeholder.com/800x400/0a0a0a/00ff88?text=BAKOME+CodeMapper+Dead+Code+Detection" alt="BAKOME CodeMapper Dead Code" width="100%">
 </p>
 
-<p align="center"><i>Rapport d'analyse dans le terminal — code mort, cycles, métriques.</i></p>
+<p align="center"><i>💀 Détection de code mort — fichiers jamais importés, orphelins, cycles.</i></p>
 
 ---
 
@@ -11,7 +11,7 @@
   <img src="https://via.placeholder.com/800x400/0a0a0a/2962FF?text=BAKOME+CodeMapper+Dependency+Graph" alt="BAKOME CodeMapper Graph" width="100%">
 </p>
 
-<p align="center"><i>Graphe de dépendances interactif — fichiers et leurs connexions.</i></p>
+<p align="center"><i>🗺️ Graphe de dépendances interactif — qui dépend de qui.</i></p>
 
 ---
 
